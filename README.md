@@ -4,6 +4,8 @@ Developed by Ryan Pope for EECS 649 (Intro to Artificial Intelligence).
 
 ## Overview
 
+Here is a link to a youtube video explaining my code: https://www.youtube.com/watch?v=M9VLWW0a1_4 
+
 This repo contains several Jupyter notebooks to explore chess algorithms using python. I utilized the python library python-chess in order to execute and manage all of the chess backend features. I began with simple random move generation and slowly upgraded to using a minimax algorithm with basic material evaluation to determine best moves,
 
 After researching about AlphaZero and Leela Chess Zero, I tried to implement some similar approachs utilizing UCT Monte Carlo Tree Search to generate move sequences and a neural network that was trained to evaluate different positions using previous stockfish evaluations from the lichess dataset.
